@@ -143,6 +143,8 @@ A curated list of awesome research papers, datasets and software projects devote
 
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align="top"> [Deep Code Search](https://dl.acm.org/citation.cfm?id=3180167) - Xiaodong Gu, Hongyu Zhang, Sunghun Kim, ICSE 2018.
 * <img src="badges/4-pages-gray.svg" alt="4-pages" align="top"> [Word Embeddings for the Software Engineering Domain](https://github.com/vefstathiou/SO_word2vec/blob/master/MSR18-w2v.pdf) - Vasiliki Efstathiou, Christos Chatzilenas, Diomidis Spinellis, MSR 2018.
+* <img src="badges/11-pages-gray.svg" alt="11-pages" align="top"> [
+Path-Based Function Embedding and Its Application to Error-Handling Specification Mining](http://defreez.com/blob/defreez_thakur_rubio_FSE2018.pdf) - Daniel DeFreez, Aditya V. Thakur, Cindy Rubio-González, FSE 2018.
 * <img src="badges/12-pages-gray.svg" alt="12-pages" align=top> [
 Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://arxiv.org/abs/1803.06686) - Jordan Henkel, Shuvendu K. Lahiri, Ben Liblit, Thomas Reps, FSE 2018.
 * <img src="badges/10-pages-gray.svg" alt="10-pages" align="top"> [Document Distance Estimation via Code Graph Embedding](https://www.researchgate.net/publication/320074701_Document_Distance_Estimation_via_Code_Graph_Embedding) - Zeqi Lin, Junfeng Zhao, Yanzhen Zou, Bing Xie, Internetware 2017.
